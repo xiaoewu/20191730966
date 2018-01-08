@@ -42,7 +42,15 @@
     top: 50%;
     margin-top: -120px;
 }
+.menuinfo___K_f87
+{
 
+    position: absolute;
+    left: 20px;
+    top: 25%;
+    margin-top: -120px;
+    text-align:left;
+}
 .menu___2Lkiu .menuitem___rlDlS{
     font-size: 16px;
     margin-top: 50px;
@@ -131,7 +139,18 @@ text-decoration: none;
         margin-top: -120px;
         
     }
-
+    .menuinfo___K_f87
+    {
+        position: absolute;
+        left: 240px;
+        top: 166px;
+        margin-top: -120px;
+        
+    }
+    .email___eZ24n
+    {
+        display: none;
+    }
     .left___Y5nen{
         margin-left: 0;
         margin-top: 0;
@@ -171,7 +190,7 @@ text-decoration: none;
     .card___3paQ1
     {
         border: 1px #fff solid;
-        height: 200px;
+   
         width: 89%;
         margin: 5%;
         float: left;
